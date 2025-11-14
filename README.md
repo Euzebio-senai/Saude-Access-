@@ -19,7 +19,6 @@
 3. **Commits Frequentes e Descritivos:**
    - Faça commits pequenos e focados, contendo alterações específicas.
    - Use mensagens de commit claras e detalhadas (ex.: `[FEATURE] Adiciona validação de formulário` ou `[FIX] Corrige erro de renderização do layout`).
-   [Guia de nomeação para commits](https://github.com/joaovidalsenai/Projeto-de-Aprendizagem-2025/blob/main/_guias/COMMITS.md)
 
 4. **Pull Request (PR):**
    - Antes de mesclar suas alterações na branch `main`, submeta um Pull Request.
