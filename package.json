@@ -1,0 +1,29 @@
+{
+  "name": "saude-access",
+  "version": "1.0.0",
+  "description": "Site com front-end em HTML/CSS e back-end em Node.js/Express",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.4.2",
+    "@supabase/supabase-js": "^2.55.0",
+    "axios": "^1.12.2",
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.3",
+    "supabase": "^2.33.9"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.10"
+  }
+}
